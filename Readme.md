@@ -30,6 +30,7 @@ If you have written code in a language not listed above (example: JavaScript/Nod
 Equally, if you have written code in one of above languages that follows a different approach (for instance: you have implemented a binding for PHP which offers a clean OOP API instead of the generic, configuration-based approach in the PHP code liste above), please don’t hesitat to [contact me](http://www.bluem.net/en/contact/) if you want the code to show up on this page.
 
 Your binding should follow these rules:
+* It should contain information on the license (PD, MIT, …)
 * It should contain information on Pashua version compatibility, i.e.: minimum and/or maximum supported/tested version.
 * It should contain information on compatibility with the programming language. Examples would be Python 2 vs. Python 3 or PHP < 5.3 vs. PHP >= 5.3. Also, if OS X includes the programming language, you should include information on whether the binding runs with the default language version shipped with OS X.
 * If there is a generally accepted guideline for code-style in the language, the code should conform to it. Example: Python code should comply with PEP8, and PHP code should follow PSR-1.
