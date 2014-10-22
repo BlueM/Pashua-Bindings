@@ -27,4 +27,14 @@ It is pretty easy to write a binding for using Pashua. And as basically you can 
 
 If you have written code in a language not listed above (example: JavaScript/Node.js) and would like to have it listed here, please contact me with the details (especially the URL or repository) where your code can be found.
 
-Equally, if you have written code in one of above languages that follows a different approach (for instance: you have implemented a binding for PHP which offers a clean OOP API instead of the generic, configuration-based approach in the PHP code liste above), please don’t hesitat to contact me if you want the code to show up on this page.
+Equally, if you have written code in one of above languages that follows a different approach (for instance: you have implemented a binding for PHP which offers a clean OOP API instead of the generic, configuration-based approach in the PHP code liste above), please don’t hesitat to [contact me](http://www.bluem.net/en/contact/) if you want the code to show up on this page.
+
+Your binding should follow these rules:
+* It should contain information on Pashua version compatibility, i.e.: minimum and/or maximum supported/tested version.
+* It should contain information on compatibility with the programming language. Examples would be Python 2 vs. Python 3 or PHP < 5.3 vs. PHP >= 5.3. Also, if OS X includes the programming language, you should include information on whether the binding runs with the default language version shipped with OS X.
+* If there is a generally accepted guideline for code-style in the language, the code should conform to it. Example: Python code should comply with PEP8, and PHP code should follow PSR-1.
+* You should provide at least one example
+* The Pashua application should be searched at least in these filesystem locations: The directory containing the binding code, `.` (the current working directory), `/Applications` and `~/Applications`
+* If possible, errors should be written to STDERR and the exit code should be non-zero
+
+Please note that at the moment, not all of the bindings listed above necessarily follow these rules.
