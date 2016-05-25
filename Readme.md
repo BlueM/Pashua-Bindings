@@ -1,7 +1,7 @@
 About this repository
 ======================
 
-This repository does not contain any code itself, but merely serves for listing Pashua binding in various languages and for providing information on writing bindings and having them listed on this page.
+This repository does not contain any code itself, but merely serves for listing [Pashua](https://www.bluem.net/jump/pashua) bindings in various languages and for providing information on writing bindings and having them listed on this page.
 
 
 Bindings
