@@ -9,7 +9,7 @@ Bindings
 
 * [AppleScript](https://github.com/BlueM/Pashua-Binding-AppleScript)
 * [Bash](https://github.com/BlueM/Pashua-Binding-Bash)
-* [JavaScript for Automation (JAX)](https://github.com/RobTrew/Pashua-Binding-JXA)
+* [JavaScript for Automation (JXA)](https://github.com/RobTrew/Pashua-Binding-JXA)
 * [Perl](https://github.com/BlueM/Pashua-Binding-Perl)
 * [PHP](https://github.com/BlueM/Pashua-Binding-PHP)
 * [Python 2](https://github.com/BlueM/Pashua-Binding-Python)
