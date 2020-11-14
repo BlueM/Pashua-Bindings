@@ -15,6 +15,7 @@ Bindings
 * [AppleScript](https://github.com/BlueM/Pashua-Binding-AppleScript)
 * [Bash](https://github.com/BlueM/Pashua-Binding-Bash)
 * [JavaScript for Automation (JXA)](https://github.com/RobTrew/Pashua-Binding-JXA)
+* [.NET](https://github.com/davidaramant/PashuaNetBindings)
 * [Perl](https://github.com/BlueM/Pashua-Binding-Perl)
 * [PHP](https://github.com/BlueM/Pashua-Binding-PHP)
 * [Python](https://github.com/BlueM/Pashua-Binding-Python)
@@ -29,7 +30,7 @@ Deprecated bindings
 
 Contributing bindings to this list
 ===================================
-It is pretty easy to write a binding for using Pashua. And as basically you can use Pashua from any language that is able to write a file or write to a Unix pipe, call an application with command line arguments, manipulate strings and declare variables dynamically or handle associative arrays, Pashua is probably usable from most programming languages that run on Mac OS X.
+It is pretty easy to write a binding for using Pashua. And as basically you can use Pashua from any language that is able to write a file or write to a Unix pipe, call an application with command line arguments, manipulate strings and declare variables dynamically or handle associative arrays, Pashua is probably usable from most programming languages that run on macOS.
 
 If you have written code in a language not listed above (example: JavaScript/Node.js) and would like to have it listed here, please contact me with the details (especially the URL or repository) where your code can be found.
 
