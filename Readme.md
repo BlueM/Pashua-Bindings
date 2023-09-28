@@ -20,6 +20,7 @@ Bindings
 * [Perl](https://github.com/BlueM/Pashua-Binding-Perl)
 * [PHP](https://github.com/BlueM/Pashua-Binding-PHP)
 * [Python](https://github.com/BlueM/Pashua-Binding-Python)
+* [Rebol](https://github.com/ldci/Pashua)
 * [Rexx](https://github.com/BlueM/Pashua-Binding-Rexx)
 * [Ruby](https://github.com/BlueM/Pashua-Binding-Ruby)
 * [Tcl](https://github.com/BlueM/Pashua-Binding-Tcl)
