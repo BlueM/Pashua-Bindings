@@ -13,6 +13,7 @@ Bindings
 ============
 
 * [AppleScript](https://github.com/BlueM/Pashua-Binding-AppleScript)
+* [AppleScript](https://github.com/doekman/ASPashua) Alternative binding, as Script Library
 * [Bash](https://github.com/BlueM/Pashua-Binding-Bash)
 * [JavaScript for Automation (JXA)](https://github.com/RobTrew/Pashua-Binding-JXA)
 * [.NET](https://github.com/davidaramant/PashuaNetBindings)
